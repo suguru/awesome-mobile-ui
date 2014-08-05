@@ -210,6 +210,7 @@ Dribbble Resources
 - [Swagger App - Feed Transitions](https://dribbble.com/shots/1623420-Swagger-App-Feed-Transitions)
 - [Profile Interaction](https://dribbble.com/shots/1659780-Profile-Interaction)
 - [New Dev Team](https://dribbble.com/shots/1650489-New-Dev-Team)
+- [Sticker Shop Design](https://dribbble.com/shots/1671092-Sticker-Shop-Design)
 
 #### Design
 
