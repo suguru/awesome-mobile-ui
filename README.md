@@ -201,6 +201,7 @@ Dribbble Resources
 - [Zip It](https://dribbble.com/shots/1666653-Zip-It)
 - [After Effects Player freebie](https://dribbble.com/shots/1669631-After-Effects-Player-freebie)
 - [Delayed / On Time](https://dribbble.com/shots/1656104-Delayed-On-Time)
+- [Album Animation with Framer Studio](https://dribbble.com/shots/1638550-Album-Animation-with-Framer-Studio)
 
 #### Interactions
 
