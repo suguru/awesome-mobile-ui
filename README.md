@@ -1,10 +1,11 @@
-Mobile UI/UX resources
+Awesome Mobile UI/UX
 ===============
 
+A collection of awesome UI/UX resources which includes concepts, implementations and theories.
 
 <!-- toc -->
 
-* [Dribbble Resources](#dribbble-resources)
+* [Dribbble.com Resources](#dribbble-resources)
     * [Menu](#menu)
     * [Icons](#icons)
     * [Animations](#animations)
@@ -45,7 +46,7 @@ Mobile UI/UX resources
 <!-- toc stop -->
 
 
-Dribbble Resources
+Dribbble.com Resources
 ----------
 
 #### Menu
