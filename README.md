@@ -213,6 +213,7 @@ Dribbble Resources
 - [Sticker Shop Design](https://dribbble.com/shots/1671092-Sticker-Shop-Design)
 - [Dynamic Scrolling Shadow](https://dribbble.com/shots/1670222-Dynamic-Scrolling-Shadow)
 - [Store Details](https://dribbble.com/shots/1670161-Store-Details-GIF)
+- [Signal Interaction](https://dribbble.com/shots/1669801-Signal-Interaction)
 
 #### Design
 
