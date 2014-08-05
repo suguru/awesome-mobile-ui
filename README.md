@@ -54,119 +54,119 @@ Github Resources
 
 #### Navigations
 
-- [https://github.com/telly/TLYShyNavBar](https://github.com/telly/TLYShyNavBar)
+- [telly/TLYShyNavBar](https://github.com/telly/TLYShyNavBar)
 
 #### Labels
 
-- [https://github.com/TomKnig/TOMSMorphingLabel](https://github.com/TomKnig/TOMSMorphingLabel)
-- [https://github.com/android1989/YetiCharacterLabelExample](https://github.com/android1989/YetiCharacterLabelExample)
-- [https://github.com/taruntyagi697/ClearTextLabel](https://github.com/taruntyagi697/ClearTextLabel)
+- [TomKnig/TOMSMorphingLabel](https://github.com/TomKnig/TOMSMorphingLabel)
+- [android1989/YetiCharacterLabelExample](https://github.com/android1989/YetiCharacterLabelExample)
+- [taruntyagi697/ClearTextLabel](https://github.com/taruntyagi697/ClearTextLabel)
 
 #### Buttons
 
-- [https://github.com/robb/hamburger-button](https://github.com/robb/hamburger-button)
-- [https://github.com/a1anyip/AYVibrantButton](https://github.com/a1anyip/AYVibrantButton)
+- [robb/hamburger-button](https://github.com/robb/hamburger-button)
+- [a1anyip/AYVibrantButton](https://github.com/a1anyip/AYVibrantButton)
 
 #### Images
 
-- [https://github.com/kevinrenskers/SDWebImage-ProgressView](https://github.com/kevinrenskers/SDWebImage-ProgressView)
+- [kevinrenskers/SDWebImage-ProgressView](https://github.com/kevinrenskers/SDWebImage-ProgressView)
 
 #### Menu
 
-- [https://github.com/balram3429/btSimpleSideMenu](https://github.com/balram3429/btSimpleSideMenu)
-- [https://github.com/ECSlidingViewController/ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController)
-- [https://github.com/romaonthego/RESideMenu](https://github.com/romaonthego/RESideMenu)
+- [balram3429/btSimpleSideMenu](https://github.com/balram3429/btSimpleSideMenu)
+- [ECSlidingViewController/ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController)
+- [romaonthego/RESideMenu](https://github.com/romaonthego/RESideMenu)
 
 #### Modals
 
-- [https://github.com/ChrisXu1221/CXCardView](https://github.com/ChrisXu1221/CXCardView)
-- [https://github.com/zoonooz/ZFDragableModalTransition](https://github.com/zoonooz/ZFDragableModalTransition)
-- [https://github.com/vikmeup/SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
-- [https://github.com/jmascia/KLCPopup](https://github.com/jmascia/KLCPopup)
+- [ChrisXu1221/CXCardView](https://github.com/ChrisXu1221/CXCardView)
+- [zoonooz/ZFDragableModalTransition](https://github.com/zoonooz/ZFDragableModalTransition)
+- [vikmeup/SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
+- [jmascia/KLCPopup](https://github.com/jmascia/KLCPopup)
 
 #### Collection Views
 
-- [https://github.com/chiahsien/CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)
-- [https://github.com/ra1028/RACollectionViewReorderableTripletLayout](https://github.com/ra1028/RACollectionViewReorderableTripletLayout)
-- [https://github.com/ole/CollectionViewParallaxScrolling](https://github.com/ole/CollectionViewParallaxScrolling)
+- [chiahsien/CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)
+- [ra1028/RACollectionViewReorderableTripletLayout](https://github.com/ra1028/RACollectionViewReorderableTripletLayout)
+- [ole/CollectionViewParallaxScrolling](https://github.com/ole/CollectionViewParallaxScrolling)
 
 #### Table Views
 
-- [https://github.com/bfeher/BFPaperTableViewCell](https://github.com/bfeher/BFPaperTableViewCell)
+- [bfeher/BFPaperTableViewCell](https://github.com/bfeher/BFPaperTableViewCell)
 
 #### Scroll Views
 
-- [https://github.com/ole/OLEContainerScrollView](https://github.com/ole/OLEContainerScrollView)
+- [ole/OLEContainerScrollView](https://github.com/ole/OLEContainerScrollView)
 
 #### Forms
 
-- [https://github.com/venmo/VENTokenField](https://github.com/venmo/VENTokenField)
-- [https://github.com/nicklockwood/FXForms](https://github.com/nicklockwood/FXForms)
-- [https://github.com/TomKnig/TOMSSuggestionBar](https://github.com/TomKnig/TOMSSuggestionBar)
-- [https://github.com/bfeher/BFPaperCheckbox](https://github.com/bfeher/BFPaperCheckbox)
-- [https://github.com/nopshusang/SACalendar](https://github.com/nopshusang/SACalendar)
-- [https://github.com/alexruperez/ARAutocompleteTextView](https://github.com/alexruperez/ARAutocompleteTextView)
+- [venmo/VENTokenField](https://github.com/venmo/VENTokenField)
+- [nicklockwood/FXForms](https://github.com/nicklockwood/FXForms)
+- [TomKnig/TOMSSuggestionBar](https://github.com/TomKnig/TOMSSuggestionBar)
+- [bfeher/BFPaperCheckbox](https://github.com/bfeher/BFPaperCheckbox)
+- [nopshusang/SACalendar](https://github.com/nopshusang/SACalendar)
+- [alexruperez/ARAutocompleteTextView](https://github.com/alexruperez/ARAutocompleteTextView)
 
 #### Keyboard
 
-- [https://github.com/illyabusigin/CYRKeyboardButton](https://github.com/illyabusigin/CYRKeyboardButton)
+- [illyabusigin/CYRKeyboardButton](https://github.com/illyabusigin/CYRKeyboardButton)
 
 #### Layout
 
-- [https://github.com/smileyborg/PureLayout](https://github.com/smileyborg/PureLayout)
-- [https://github.com/jamztang/CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout)
+- [smileyborg/PureLayout](https://github.com/smileyborg/PureLayout)
+- [jamztang/CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout)
 
 #### Tooltips
 
-- [https://github.com/andreamazz/AMPopTip](https://github.com/andreamazz/AMPopTip)
+- [andreamazz/AMPopTip](https://github.com/andreamazz/AMPopTip)
 
 #### Animations
 
-- [https://github.com/WilliamZang/FastAnimationWithPOP](https://github.com/WilliamZang/FastAnimationWithPOP)
-- [https://github.com/itsmeichigo/ICGTransitionAnimation](https://github.com/itsmeichigo/ICGTransitionAnimation)
-- [https://github.com/fastred/MotionBlur](https://github.com/fastred/MotionBlur)
+- [WilliamZang/FastAnimationWithPOP](https://github.com/WilliamZang/FastAnimationWithPOP)
+- [itsmeichigo/ICGTransitionAnimation](https://github.com/itsmeichigo/ICGTransitionAnimation)
+- [fastred/MotionBlur](https://github.com/fastred/MotionBlur)
 
 #### Misc
 
-- [https://github.com/VAlexander/Chameleon](https://github.com/VAlexander/Chameleon)
-- [https://github.com/dzenbot/DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)
-- [https://github.com/matteogobbi/MGSpotyViewController](https://github.com/matteogobbi/MGSpotyViewController)
-- [https://github.com/jessesquires/JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)
-- [https://github.com/BradLarson/GPUImage](https://github.com/BradLarson/GPUImage)
+- [VAlexander/Chameleon](https://github.com/VAlexander/Chameleon)
+- [dzenbot/DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)
+- [matteogobbi/MGSpotyViewController](https://github.com/matteogobbi/MGSpotyViewController)
+- [jessesquires/JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)
+- [BradLarson/GPUImage](https://github.com/BradLarson/GPUImage)
 
 ### Android
 
 #### Buttons
 
-- [https://github.com/dmytrodanylyk/circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)
-- [https://github.com/mikepenz/Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)
-- [https://github.com/makovkastar/FloatingActionButton](https://github.com/makovkastar/FloatingActionButton)
-- [https://github.com/balysv/material-menu](https://github.com/balysv/material-menu)
+- [dmytrodanylyk/circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)
+- [mikepenz/Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)
+- [makovkastar/FloatingActionButton](https://github.com/makovkastar/FloatingActionButton)
+- [balysv/material-menu](https://github.com/balysv/material-menu)
 
 #### Labels
 
-[https://github.com/sd6352051/RiseNumber](https://github.com/sd6352051/RiseNumber)
+- [sd6352051/RiseNumber](https://github.com/sd6352051/RiseNumber)
 
 #### Menu
 
-- [https://github.com/oguzbilgener/CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu)
-- [https://github.com/tuenti/ButtonMenu](https://github.com/tuenti/ButtonMenu)
+- [oguzbilgener/CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu)
+- [tuenti/ButtonMenu](https://github.com/tuenti/ButtonMenu)
 
 #### Modals
 
-- [https://github.com/sd6352051/NiftyDialogEffects](https://github.com/sd6352051/NiftyDialogEffects)
-- [https://github.com/pedrovgs/DraggablePanel](https://github.com/pedrovgs/DraggablePanel)
+- [sd6352051/NiftyDialogEffects](https://github.com/sd6352051/NiftyDialogEffects)
+- [pedrovgs/DraggablePanel](https://github.com/pedrovgs/DraggablePanel)
 
 #### Graphics
 
-- [https://github.com/FilipPudak/ProgressPieView](https://github.com/FilipPudak/ProgressPieView)
-- [https://github.com/pavlospt/CircleView](https://github.com/pavlospt/CircleView)
+- [FilipPudak/ProgressPieView](https://github.com/FilipPudak/ProgressPieView)
+- [pavlospt/CircleView](https://github.com/pavlospt/CircleView)
 
 #### Animations
 
-- [https://github.com/daimajia/AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)
-- [https://github.com/telly/FloatingAction](https://github.com/telly/FloatingAction)
-- [https://github.com/daimajia/AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions)
+- [daimajia/AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)
+- [telly/FloatingAction](https://github.com/telly/FloatingAction)
+- [daimajia/AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions)
 
 #### Misc
 
