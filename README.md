@@ -226,6 +226,7 @@ Links
 
 #### Mobile UI Patterns
 
+- [CAPPTIVATE.CO](http://capptivate.co/)
 - [Mobile Patterns](http://www.mobile-patterns.com/)
 - [Pttrns](http://www.pttrns.com/)
 
