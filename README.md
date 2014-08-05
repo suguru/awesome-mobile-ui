@@ -211,6 +211,7 @@ Dribbble Resources
 - [Profile Interaction](https://dribbble.com/shots/1659780-Profile-Interaction)
 - [New Dev Team](https://dribbble.com/shots/1650489-New-Dev-Team)
 - [Sticker Shop Design](https://dribbble.com/shots/1671092-Sticker-Shop-Design)
+- [Dynamic Scrolling Shadow](https://dribbble.com/shots/1670222-Dynamic-Scrolling-Shadow)
 
 #### Design
 
